@@ -1,0 +1,74 @@
+[
+  {
+    "id": "job_1",
+    "title": "AI Software Engineer Intern",
+    "company": "Elip (YC W25)",
+    "location": "Bengaluru / Remote",
+    "stipend": "₹75k/mo (₹1.5L PPO)",
+    "skills": ["Node.js", "LLM APIs", "RAG", "Semantic Search", "Tool Calling", "Prompt Engineering", "Docker"],
+    "description": "Build LLM-powered career agents with tool use, context memory, semantic search over a jobs index, and LLM output evaluations."
+  },
+  {
+    "id": "job_2",
+    "title": "Full-Stack Developer (MERN)",
+    "company": "Razorpay",
+    "location": "Bengaluru",
+    "stipend": "₹60k/mo",
+    "skills": ["React", "Node.js", "Express", "MongoDB", "REST APIs", "Tailwind CSS"],
+    "description": "Build scalable web applications, design RESTful APIs, and optimize React frontend performance."
+  },
+  {
+    "id": "job_3",
+    "title": "Backend Systems Engineer",
+    "company": "Atlassian",
+    "location": "Bengaluru / Hybrid",
+    "stipend": "₹80k/mo",
+    "skills": ["C++", "Node.js", "SQL", "WebSockets", "Distributed Systems", "DBMS"],
+    "description": "Design high-throughput backend services, real-time messaging pipelines, and reliable database architectures."
+  },
+  {
+    "id": "job_4",
+    "title": "Applied AI Engineer",
+    "company": "Sarvam AI",
+    "location": "Bengaluru",
+    "stipend": "₹70k/mo",
+    "skills": ["Python", "LangChain", "Embeddings", "Vector DB", "RAG", "LLM Evals"],
+    "description": "Develop production RAG pipelines, fine-tune retrieval ranking, and build automated evaluation suites for LLM outputs."
+  },
+  {
+    "id": "job_5",
+    "title": "Frontend Engineer (React)",
+    "company": "Zepto",
+    "location": "Mumbai / Bengaluru",
+    "stipend": "₹50k/mo",
+    "skills": ["React.js", "JavaScript", "Tailwind CSS", "State Management", "UI/UX"],
+    "description": "Create fast, responsive user dashboards and consumer-facing web interfaces."
+  },
+  {
+    "id": "job_6",
+    "title": "AI Product Engineer",
+    "company": "Composio (YC)",
+    "location": "Bengaluru / Remote",
+    "stipend": "₹75k/mo",
+    "skills": ["TypeScript", "Node.js", "AI Agents", "Function Calling", "MCP", "REST APIs"],
+    "description": "Build developer tooling and reliable function-calling integrations for autonomous AI agents."
+  },
+  {
+    "id": "job_7",
+    "title": "SDE Intern (Backend & Cloud)",
+    "company": "Groww",
+    "location": "Bengaluru",
+    "stipend": "₹55k/mo",
+    "skills": ["Node.js", "PostgreSQL", "Docker", "Redis", "System Design", "DSA"],
+    "description": "Build low-latency financial APIs, manage containerized deployments, and optimize SQL queries."
+  },
+  {
+    "id": "job_8",
+    "title": "NLP & Search Engineer",
+    "company": "Krutrim",
+    "location": "Bengaluru",
+    "stipend": "₹65k/mo",
+    "skills": ["Embeddings", "Semantic Search", "Ranking", "Python", "Node.js", "Vector Search"],
+    "description": "Design hybrid semantic search engines, ranking algorithms, and retrieval pipelines over large datasets."
+  }
+]
