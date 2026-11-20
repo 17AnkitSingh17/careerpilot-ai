@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const API = "http://localhost:5000";
+const API = "https://careerpilot-ai-t5yo.onrender.com";
 
 export default function App() {
   const [file, setFile] = useState(null);
